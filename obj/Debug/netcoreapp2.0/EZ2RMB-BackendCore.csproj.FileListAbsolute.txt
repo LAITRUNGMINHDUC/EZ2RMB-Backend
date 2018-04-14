@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\EZ2RMB-BackendCore\EZ2RMB-BackendCore\bin\Debug\netcoreapp2.0\EZ2RMB-BackendCore.deps.json
+C:\Users\Lenovo\source\repos\EZ2RMB-BackendCore\EZ2RMB-BackendCore\bin\Debug\netcoreapp2.0\EZ2RMB-BackendCore.runtimeconfig.json
+C:\Users\Lenovo\source\repos\EZ2RMB-BackendCore\EZ2RMB-BackendCore\bin\Debug\netcoreapp2.0\EZ2RMB-BackendCore.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\EZ2RMB-BackendCore\EZ2RMB-BackendCore\bin\Debug\netcoreapp2.0\EZ2RMB-BackendCore.dll
+C:\Users\Lenovo\source\repos\EZ2RMB-BackendCore\EZ2RMB-BackendCore\bin\Debug\netcoreapp2.0\EZ2RMB-BackendCore.pdb
+C:\Users\Lenovo\source\repos\EZ2RMB-BackendCore\EZ2RMB-BackendCore\obj\Debug\netcoreapp2.0\EZ2RMB-BackendCore.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\source\repos\EZ2RMB-BackendCore\EZ2RMB-BackendCore\obj\Debug\netcoreapp2.0\EZ2RMB-BackendCore.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\EZ2RMB-BackendCore\EZ2RMB-BackendCore\obj\Debug\netcoreapp2.0\EZ2RMB-BackendCore.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\EZ2RMB-BackendCore\EZ2RMB-BackendCore\obj\Debug\netcoreapp2.0\EZ2RMB-BackendCore.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\EZ2RMB-BackendCore\EZ2RMB-BackendCore\obj\Debug\netcoreapp2.0\EZ2RMB-BackendCore.dll
+C:\Users\Lenovo\source\repos\EZ2RMB-BackendCore\EZ2RMB-BackendCore\obj\Debug\netcoreapp2.0\EZ2RMB-BackendCore.pdb
